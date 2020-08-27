@@ -1,0 +1,16 @@
+.main-title {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.card {
+  width: 23%;
+  margin-bottom: 20px;
+  outline: solid 2px #a1a0a0;
+  transition: outline 0.6s linear;
+}
+
+.card:hover {
+  outline-width: 5px !important;
+}
